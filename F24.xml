@@ -1,0 +1,52 @@
+<?xml version=“1.0” encoding=“UTF-8”>
+
+<doc>
+
+<teiHeader>
+<titleStmt>
+<title>동짓달 기나긴 밤을</tilte>
+<author>황진이</author>
+</titleStmt>
+<respStmt>
+<revisionDesc>
+<date>2024/11/27</date>
+<respStmt>
+<resp>입력자</resp>
+<name>김규성</name>
+</respStmt>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<head>
+동짓달 기나긴 밤을
+</head>
+<body>
+<p>
+F24-001	동짓달
+F24-002	기나긴
+F24-003	밤을
+F24-004	한
+F24-005	허리를
+F24-006	버혀
+F24-007	내어
+</p>
+<p>
+F24-008	춘풍
+F24-009	니블
+F24-010	아레
+F24-011	서리서리
+F24-012	너헛다가	넣/VV + 엇/EP +다가/EC	여성 화자의 섬세한 태도
+</p>
+<p>
+F24-013	어론님	어론/NNG + 님/NNG	어휘 '님'의 활용
+F24-014	오신	오/VV+ 시/EP + ㄴ/ETM	높임의 표현
+F24-015	날
+F24-016	밤이여든
+F24-017	구뷔구뷔
+F24-018	펴리라	펴/VV + 리/EP + 라/EF	님을 기다리려는 여성 화자의 의지
+</p>
+</body>
+</text>
+
+</doc>
